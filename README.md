@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nigdel
-- 👀 I’m interested in work as a freelancer
-- 💞️ I’m looking to collaborate on any work just for learning
+- 💞️ I’m looking to collaborate on an interesting work
 - 📫 How to reach me: just email me at nigdel.pena@gmail.com
 
 <!---
